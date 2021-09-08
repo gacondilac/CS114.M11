@@ -1,6 +1,6 @@
-#**CS114.M11-MACHINE LEARNING**
+###**CS114.M11-MACHINE LEARNING**
 
 ## INTRODUCE 
-Full name: Nguyễn Ngọc An
-Class: KHMT2019
+- Full name: Nguyễn Ngọc An
+- Class: KHMT2019
 
